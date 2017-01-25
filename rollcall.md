@@ -16,6 +16,10 @@ _This repository is public, so you may not want to include your residence or pho
 * Emma Twersky
   * GitHub: emmatwersky
   * Email: twersker@whitman.edu
+  
+* Quinn Salkind
+  * GitHub: qsalkind
+  * Email: salkinqg@whitman.edu
 
 * Fake Student
   * GitHub: janet-oea
