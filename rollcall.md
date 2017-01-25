@@ -11,4 +11,4 @@ _This repository is public, so you may not want to include your residence or pho
 * Janet Davis
   * GitHub: janetlndavis
   * Email: davisj@whitman.edu
-  * Blog: http://cs.whitman.edu/~davisj
+  * Homepage: http://cs.whitman.edu/~davisj
