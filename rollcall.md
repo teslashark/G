@@ -12,3 +12,7 @@ _This repository is public, so you may not want to include your residence or pho
   * GitHub: janetlndavis
   * Email: davisj@whitman.edu
   * Homepage: http://cs.whitman.edu/~davisj
+
+* Fake Student
+  * GitHub: janet-oea
+  * This is a test!
