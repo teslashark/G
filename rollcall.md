@@ -28,6 +28,10 @@ _This repository is public, so you may not want to include your residence or pho
 * Quinn Salkind
   * GitHub: qsalkind
   * Email: salkinqg@whitman.edu
+  
+* Tyler Maule
+  * GitHub: maumaj
+  * Email: mauletj@whitman.edu
 
 * Fake Student
   * GitHub: janet-oea
