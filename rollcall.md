@@ -33,6 +33,10 @@ _This repository is public, so you may not want to include your residence or pho
   * GitHub: maumaj
   * Email: mauletj@whitman.edu
 
+* Eric Hsu
+  * Github: ChaoticLizard
+  * Email: hsuer@whitman.edu
+
 * Fake Student
   * GitHub: janet-oea
   * This is a test!
