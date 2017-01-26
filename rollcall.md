@@ -41,3 +41,6 @@ _This repository is public, so you may not want to include your residence or pho
   * GitHub: janet-oea
   * This is a test!
 
+* Jingyuan Wang
+  * GitHub:JingyW
+  * Email: wangj2@whitman.edu
