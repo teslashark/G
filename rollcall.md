@@ -8,6 +8,11 @@ Name, GitHub username, and (optionally) Contact Info
 
 _This repository is public, so you may not want to include your residence or phone number._
 
+
+* Ricardo Vivanco
+  * GitHub: vivancr
+  * Email: vivancr@whitman.edu
+
 * Janet Davis
   * GitHub: janetlndavis
   * Email: davisj@whitman.edu
@@ -24,3 +29,4 @@ _This repository is public, so you may not want to include your residence or pho
 * Fake Student
   * GitHub: janet-oea
   * This is a test!
+
