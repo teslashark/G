@@ -41,6 +41,10 @@ _This repository is public, so you may not want to include your residence or pho
   * Github: ChaoticLizard
   * Email: hsuer@whitman.edu
 
+* Kaylin Jarriel
+  * GitHub: jarrieks
+  * Email: jarrieks@whitman.edu
+
 * Fake Student
   * GitHub: janet-oea
   * This is a test!
